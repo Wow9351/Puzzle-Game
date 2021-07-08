@@ -3,13 +3,15 @@ body{
 }
 
 .puzzle{
-  margin: 10px;
-  padding-left: 550px;
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
 }
 
 .heading{
-  margin: 10px;
-  padding-left : 250px;
+  width: 500px;
+  margin: 10px auto;
+  text-align: center;
 }
 
 .hide{
